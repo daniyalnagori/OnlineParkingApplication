@@ -1,1 +1,1 @@
-# Online Parking Management System (Code Marathon Project)
+# Online Parking Application
